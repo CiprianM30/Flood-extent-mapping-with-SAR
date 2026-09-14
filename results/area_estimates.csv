@@ -1,0 +1,5 @@
+activation,aoi,method,pre_start,pre_end,post_start,post_end,flood_area_ha,threshold_db,notes
+EMSR758,Pechea,fixed_threshold_difference,2024-09-01,2024-09-13,2024-09-14,2024-09-25,462.8964261413454,-2.75,Change detection (post-pre) + permanent water (JRC>80) + slope<5
+EMSR758,Pechea,otsu_difference,2024-09-01,2024-09-13,2024-09-14,2024-09-25,8103.290635983713,1.6274509803921617,Automatic Otsu on difference; strong overestimation for this AOI (reported as negative result)
+EMSR756,Raciborz,fixed_threshold_difference,2024-09-01,2024-09-13,2024-09-14,2024-09-25,1077.8515499885564,-2.75,Change detection (post-pre) + permanent water (JRC>80) + slope<5
+EMSR756,Raciborz,otsu_difference,2024-09-01,2024-09-13,2024-09-14,2024-09-25,1076.0104342914835,-2.7647658823529402,Automatic Otsu on difference + permanent water (JRC>80) + slope<5

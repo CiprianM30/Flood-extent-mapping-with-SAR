@@ -1,0 +1,5 @@
+activation,aoi,metric,value_ha,source
+EMSR758,Pechea,event_extent,427.4,EMSR758 ActivationSummaryTable (XLS)
+EMSR758,Pechea,max_extent,918.4,EMSR758 stats page
+EMSR756,Raciborz,latest_observations,1773.9,EMSR756 ActivationSummaryTable (XLS)
+EMSR756,Raciborz,max_extent,3727.2,EMSR756 ActivationSummaryTable (XLS)
